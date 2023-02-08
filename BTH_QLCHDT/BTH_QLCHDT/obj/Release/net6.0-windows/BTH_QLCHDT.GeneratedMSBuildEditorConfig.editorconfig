@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = BTH_QLCHDT
+build_property.ProjectDir = F:\FITHOU\Các môn học\Lập trình hướng sự kiện\BTH_QLCHDT-20220325T144643Z-001\BTH_QLCHDT\BTH_QLCHDT\
